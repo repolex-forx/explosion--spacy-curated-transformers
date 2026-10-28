@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-curated-transformers",
+  "versions": [
+    {
+      "commit": "be9875be64363f6540ce073ee936bd32a948693d",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:04:31.687356+00:00"
+    }
+  ]
+}
