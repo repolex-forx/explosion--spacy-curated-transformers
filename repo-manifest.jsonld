@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-curated-transformers/commit/be9875be64363f6540ce073ee936bd32a948693d",
       "git:hexsha": "be9875be64363f6540ce073ee936bd32a948693d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-curated-transformers/commit/b6b6bd621077a38d2baa5e855ea2db47d0d2375b",
